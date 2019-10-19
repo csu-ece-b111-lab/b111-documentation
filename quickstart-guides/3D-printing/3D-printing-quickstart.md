@@ -127,9 +127,9 @@ printer, then you should be fine. Configuration examples for our printers are
 shown below. After you click `add printer`, you will not need to change anything
 on the next dialog page and can just click `finish`.
 
-![Lulzbot Mini printer configuration](./cura-lulzbot-mini-config.png)
+![Lulzbot Mini printer configuration](./cura-lulzbot-mini-config.PNG)
 
-![Lulzbot Taz 6 printer configuration](./cura-lulzbot-taz6-config.png)
+![Lulzbot Taz 6 printer configuration](./cura-lulzbot-taz6-config.PNG)
 
 If you only need to print on one type of printer, then just add the one you
 need. Otherwise be sure to go to `Settings -> Printer -> Add Printer` and add
@@ -147,7 +147,7 @@ produced with Cura Lulzbot Edition V3.2.32.
     multiple STL files at once if you want. You can also go to `File -> Open File`
     or `Ctrl + O` to add files.
 
-![Cura Main screen with no file loaded](./cura-open-file.png)
+![Cura Main screen with no file loaded](./cura-open-file.PNG)
 
 4.  On the right hand side, select your filament material and profile from the
 drop down menus. The standard profile works well for most parts. If you are
@@ -186,7 +186,7 @@ profile can decrease your print time if you do not have detailed parts.
     the vertical axis weaker due to the layering effect.
     -   Circles and holes print much more accurately if printed with their center axis vertical.
 
-![Part Editing Controls](./cura-edit-model.png)
+![Part Editing Controls](./cura-edit-model.PNG)
 
 7.  Once you are satisfied with how your part looks in CURA, export your part to
 GCODE. This will contain every instruction to control the 3D printer, from the
